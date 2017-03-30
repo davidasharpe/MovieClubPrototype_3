@@ -1,0 +1,38 @@
+img {
+    max-width: 100%;
+}
+
+form {
+    max-width: 600px;
+    margin: auto;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.movie-image {
+    width: 100px;
+}
+
+.error-msg {
+    color: tomato;
+}
+
+.success-msg {
+    color: darkseagreen;
+}
